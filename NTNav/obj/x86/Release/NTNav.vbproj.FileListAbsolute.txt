@@ -1,0 +1,11 @@
+G:\Projet Code\Projet\NTNav\NTNav\bin\Release\NTNav.exe.config
+G:\Projet Code\Projet\NTNav\NTNav\bin\Release\NTNav.exe
+G:\Projet Code\Projet\NTNav\NTNav\bin\Release\NTNav.pdb
+G:\Projet Code\Projet\NTNav\NTNav\bin\Release\NTNav.xml
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.Form1.resources
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.Resources.resources
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.Settings.resources
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.vbproj.GenerateResource.Cache
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.exe
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.xml
+G:\Projet Code\Projet\NTNav\NTNav\obj\x86\Release\NTNav.pdb
